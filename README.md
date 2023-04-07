@@ -1,6 +1,8 @@
 # derivation-of-schroedinger-equation
 derivation of schroedinger equation
 
+シュレディンガーは以下のようにしてシュレディンガー方程式を導出しました
+
 以下のハミルトン-ヤコビ方程式から出発します
 
 $$
