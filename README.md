@@ -40,3 +40,5 @@ $$
 # 参考
 
 量子力学 / 保江 邦夫 著 https://www.nippyo.co.jp/shop/book/1761.html
+
+Quantisierung als Eigenwertproblem - Schrödinger - 1926 - Annalen der Physik - Wiley Online Library https://onlinelibrary.wiley.com/doi/10.1002/andp.19263840404
