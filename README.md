@@ -34,7 +34,7 @@ $$
 ここでシュレディンガーは左辺の変分がゼロになると仮定します
 
 $$
-\delta \int\left(\frac{K^2}{2m}\left(+\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2\right)dxdydz=0
+\delta \int\left(\frac{K^2}{2m}\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\left(+\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2\right)dxdydz=0
 $$
 
 変分を実行すると
