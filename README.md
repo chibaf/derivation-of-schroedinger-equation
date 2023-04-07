@@ -13,4 +13,4 @@ derivation of schroedinger equation
 
 ![equation](https://user-images.githubusercontent.com/1296728/230628347-6e2f7225-961d-40e4-ac27-4841988915e2.png)
 
-変換を行うと、 $\phi$ の式を得ます
+変換を行うと、 $\varphi$ の式を得ます
