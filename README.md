@@ -4,7 +4,7 @@ derivation of schroedinger equation
 以下のハミルトン-ヤコビ方程式から出発します
 
 $$
-\frac{1}{2m}\{\left(\frac{\partial W}{\partial x}\right)^2+\left(\frac{\partial W}{\partial y}\right)^2+\left(\frac{\partial W}{\partial z}\right)^2\}+V = E
+\frac{1}{2m}\[\left(\frac{\partial W}{\partial x}\right)^2+\left(\frac{\partial W}{\partial y}\right)^2+\left(\frac{\partial W}{\partial z}\right)^2\]+V = E
 $$
 
 次の変数変換を行います
