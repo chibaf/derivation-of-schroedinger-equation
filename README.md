@@ -12,3 +12,5 @@ derivation of schroedinger equation
 物理学者高林氏はボルツマンの次の四季との類似性に言及しています（量子論の発展史/ちくま学芸文庫）
 
 ![equation](https://user-images.githubusercontent.com/1296728/230628347-6e2f7225-961d-40e4-ac27-4841988915e2.png)
+
+変換を行うと、 $\phi$ の式を得ます
