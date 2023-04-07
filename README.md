@@ -11,7 +11,7 @@ $$
 \frac{1}{2m}\[\left(\frac{\partial W}{\partial x}\right)^2+\left(\frac{\partial W}{\partial y}\right)^2+\left(\frac{\partial W}{\partial z}\right)^2\]+V = E
 $$
 
-次の変数変換を行います
+次の変数変換を行います。この時点では定数 $K$ は未知です 
 
 $$
 W(x,y,z)=K\log\varphi(x,y,z)
