@@ -40,7 +40,7 @@ $$
 変分を実行すると
 
 $$
-\int\[\frac{K^2}{2m}\left(2\frac{\partial \varphi}{\partial x}\frac{\partial \delta\varphi}{\partial x}+2\frac{\partial \varphi}{\partial y}\frac{\partial \delta\varphi}{\partial y}+2\frac{\partial \varphi}{\partial z}\frac{\partial \delta\varphi}{\partial z}+2(V-E)\varphi \delta \varphi\]dxdydz=0
+\int[\frac{K^2}{2m}\left(2\frac{\partial \varphi}{\partial x}\frac{\partial \delta\varphi}{\partial x}+2\frac{\partial \varphi}{\partial y}\frac{\partial \delta\varphi}{\partial y}+2\frac{\partial \varphi}{\partial z}\frac{\partial \delta\varphi}{\partial z}+2(V-E)\varphi \delta \varphi]dxdydz=0
 $$
 
 
