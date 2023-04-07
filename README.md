@@ -57,6 +57,7 @@ $$
 \frac{K^2}{2m}\left(\frac{\partial^2 \varphi}{\partial x^2}+\frac{\partial^2 \varphi}{\partial y^2}+\frac{\partial^2 \varphi}{\partial z^2}\right)=(V-E)\varphi
 $$
 
+# $K$ の決定
 
 # 参考
 
