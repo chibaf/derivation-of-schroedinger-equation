@@ -9,7 +9,9 @@ $$
 
 次の変数変換を行います
 
-![equation](https://user-images.githubusercontent.com/1296728/230627936-67d2a436-f766-48a8-98a5-df2a1cf6ce91.png)
+$$
+W(x,y,z)=K\log\varphi(x,y,z)
+$$
 
 物理学者高林氏はボルツマンの次の四季との類似性に言及しています（量子論の発展史/ちくま学芸文庫）
 
