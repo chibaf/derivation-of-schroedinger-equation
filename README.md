@@ -52,7 +52,7 @@ $$
 よって以下の方程式を得ます
 
 $$
-\frac{K^2}{m}\left(\frac{\partial^2 \varphi}{\partial x^2}+\frac{\partial^2 \varphi}{\partial y^2}+\frac{\partial^2 \varphi}{\partial z^2}+(V-E)\varphi\right)
+\frac{K^2}{m}\left(\frac{\partial^2 \varphi}{\partial x^2}+\frac{\partial^2 \varphi}{\partial y^2}+\frac{\partial^2 \varphi}{\partial z^2}+(V-E)\varphi\right)=0
 $$
 
 
