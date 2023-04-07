@@ -43,6 +43,13 @@ $$
 \int\frac{K^2}{2m}(2\frac{\partial \varphi}{\partial x}\frac{\partial \delta\varphi}{\partial x}+2\frac{\partial \varphi}{\partial y}\frac{\partial \delta\varphi}{\partial y}+2\frac{\partial \varphi}{\partial z}\frac{\partial \delta\varphi}{\partial z}+2(V-E)\varphi \delta \varphi)dxdydz=0
 $$
 
+部分積分を行うと
+
+$$
+\int\frac{K^2}{m}(\frac{\partial^2 \varphi}{\partial x^2}\delta\varphi}+\frac{\partial^2 \varphi}{\partial y^2}\delta+\frac{\partial^2 \varphi}{\partial z^2}\frac{\partial \delta\varphi}{\partial z}+(V-E)\varphi \delta \varphi)dxdydz=0
+$$
+
+
 
 # 参考
 
