@@ -30,3 +30,9 @@ $$
 $$
 \int\left[\frac{k^2}{2m}\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\left(\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2 \right]dxdydz=0
 $$
+
+ここでシュレディンガーは左辺の変分がゼロになると仮定します
+
+$$
+\delta \int\int\int\left(\frac{k^2}{2m}\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\left(\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2\right)dxdydz=0
+$$
