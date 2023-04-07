@@ -36,3 +36,7 @@ $$
 $$
 \delta \int\int\int\left(\frac{K^2}{2m}\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\left(\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2\right)dxdydz=0
 $$
+
+# 参考
+
+量子力学 / 保江 邦夫 著 https://www.nippyo.co.jp/shop/book/1761.html
