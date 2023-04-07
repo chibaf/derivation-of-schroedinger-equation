@@ -21,7 +21,9 @@ $$
 
 変換を行うと、 $\varphi$ の式を得ます
 
-![equation](https://user-images.githubusercontent.com/1296728/230628916-e45a06c9-0056-475e-b614-5b888c816b35.png)
+$$
+\frac{k^2}{2m}\left(\left(\frac{\partial \varphi}{\partial x}\right)^2+\left(\frac{\partial \varphi}{\partial y}\right)^2+\left(\frac{\partial \varphi}{\partial z}\right)^2\right)+(V-E)\varphi^2=0
+$$
 
 この両辺を積分すると
 
