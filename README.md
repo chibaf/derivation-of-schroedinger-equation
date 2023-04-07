@@ -46,9 +46,14 @@ $$
 部分積分を行うと
 
 $$
-\int\frac{K^2}{m}(\frac{\partial^2 \varphi}{\partial x^2}\delta\varphi+\frac{\partial^2 \varphi}{\partial y^2}\delta+\frac{\partial^2 \varphi}{\partial z^2}\delta\varphi+(V-E)\varphi \delta \varphi)dxdydz=0
+\int\frac{K^2}{m}(\frac{\partial^2 \varphi}{\partial x^2}\delta\varphi+\frac{\partial^2 \varphi}{\partial y^2}\delta\varphi+\frac{\partial^2 \varphi}{\partial z^2}\delta\varphi+(V-E)\varphi \delta \varphi)dxdydz=0
 $$
 
+よって以下の方程式を得ます
+
+$$
+\frac{K^2}{m}(\frac{\partial^2 \varphi}{\partial x^2}+\frac{\partial^2 \varphi}{\partial y^2}+\frac{\partial^2 \varphi}{\partial z^2}+(V-E)\varphi \delta \varphi)
+$$
 
 
 # 参考
