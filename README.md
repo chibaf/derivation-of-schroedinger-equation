@@ -63,7 +63,9 @@ $$
 
 球面座標で方程式を書くと
 
-
+$$
+\frac{K^2}{2m}\left[\frac{\partial^2 \varphi}{\partial r^2}+\frac{2}{r}\frac{\partial \varphi}{\partial r}\frac{1}{r^2}\left(\frac{1}{\sin \theta}\frac{\partial}{\partial\theta}(\sin\theta\frac{\partial \varphi}{\partial\theta})+\frac{1}{\sin^2\theta}\frac{\partial^2\varphi}{\partial\phi^2}\right)\right]=(V-E)\varphi
+$$
 
 # 参考
 
