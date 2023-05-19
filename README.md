@@ -61,6 +61,10 @@ $$
 
 # $K$ の決定
 
+球面座標で方程式を書くと
+
+
+
 # 参考
 
 量子力学 / 保江 邦夫 著 https://www.nippyo.co.jp/shop/book/1761.html
