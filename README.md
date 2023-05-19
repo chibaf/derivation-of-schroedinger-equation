@@ -67,6 +67,12 @@ $$
 \frac{K^2}{2m}\left[\frac{\partial^2 \varphi}{\partial r^2}+\frac{2}{r}\frac{\partial \varphi}{\partial r}\frac{1}{r^2}\left(\frac{1}{\sin \theta}\frac{\partial}{\partial\theta}(\sin\theta\frac{\partial \varphi}{\partial\theta})+\frac{1}{\sin^2\theta}\frac{\partial^2\varphi}{\partial\phi^2}\right)\right]=(V-E)\varphi
 $$
 
+これより動径方向の方程式は
+
+$$
+\frac{K^2]{2m}\left(\frac{d^2}{dr^2}+\frac{2}{r}\frac{d}{dr}\right)R(r)=(V-E)R(r)
+$$
+
 # 参考
 
 量子力学 / 保江 邦夫 著 https://www.nippyo.co.jp/shop/book/1761.html
